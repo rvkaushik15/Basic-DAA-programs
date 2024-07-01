@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717476346 source:d:\1ga22cs129\string match\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
